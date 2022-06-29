@@ -1,0 +1,25 @@
+{
+  "tag": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "html",
+            "typescriptreact",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "<$div>",
+          "\t$body",
+          "</$div>"
+        ]
+      }
+    ],
+    "variables": {
+      "body": {
+        "wrapperScopeType": "line"
+      }
+    }
+  }
+}

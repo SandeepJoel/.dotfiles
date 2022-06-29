@@ -1,0 +1,26 @@
+{
+  "functionDeclaration": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "typescriptreact",
+            "javascript",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "function ($args) {",
+          "\t$body",
+          "}"
+        ]
+      }
+    ],
+    "variables": {
+      "body": {
+        "wrapperScopeType": "statement"
+      }
+    }
+  }
+}

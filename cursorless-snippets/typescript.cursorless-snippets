@@ -1,0 +1,105 @@
+{
+  "mobxConstructor": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "javascript",
+            "typescriptreact",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "constructor($parameters) {",
+          "\tmakeAutoObservable(this);",
+          "}"
+        ]
+      }
+    ],
+    "description": "Constructor using makeAutoObservable",
+    "insertionScopeType": "namedFunction"
+  },
+  "bindClassFunction": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "javascript",
+            "typescriptreact",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "this.${name/^(this.)?(.+)$/$2/} = this.${name/^(this.)?(.+)$/$2/}.bind(this)"
+        ],
+        "variables": {
+          "name": {
+            "formatter": "camelCase"
+          }
+        }
+      }
+    ],
+    "description": "Bind function to this",
+    "insertionScopeType": "statement"
+  },
+  "constantDeclaration": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "javascript",
+            "typescriptreact",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "const $name = ${value/^([^;]*);?$/$1/};"
+        ],
+        "variables": {
+          "name": {
+            "formatter": "camelCase"
+          }
+        }
+      }
+    ],
+    "description": "Constant variable declaration",
+    "insertionScopeType": "statement",
+    "variables": {
+      "value": {
+        "wrapperScopeType": "statement"
+      }
+    }
+  },
+  "letDeclaration": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "javascript",
+            "typescriptreact",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "let $name = ${value/^([^;]*);?$/$1/};"
+        ],
+        "variables": {
+          "name": {
+            "formatter": "camelCase"
+          }
+        }
+      }
+    ],
+    "description": "Let variable declaration",
+    "insertionScopeType": "statement",
+    "variables": {
+      "value": {
+        "wrapperScopeType": "statement"
+      }
+    }
+  }
+}

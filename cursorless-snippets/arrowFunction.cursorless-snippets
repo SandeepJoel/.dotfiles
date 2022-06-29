@@ -1,0 +1,26 @@
+{
+  "arrowFunction": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "typescript",
+            "typescriptreact",
+            "javascript",
+            "javascriptreact"
+          ]
+        },
+        "body": [
+          "const ${functionName} = ($args) => {",
+          "\t$body",
+          "}"
+        ]
+      }
+    ],
+    "variables": {
+      "body": {
+        "wrapperScopeType": "statement"
+      }
+    }
+  }
+}

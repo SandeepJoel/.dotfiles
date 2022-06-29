@@ -1,0 +1,40 @@
+URL,Spoken name
+http://talonvoice.com,talon home page
+http://talonvoice.slack.com/messages/help,talon slack
+https://talon.wiki/unofficial_talon_docs/,talon wiki
+https://chaosparrot.github.io/talon_practice/,talon practice
+https://search.talonvoice.com/search/,talon repository search
+https://www.amazon.in/,amazon
+https://dropbox.com/,dropbox
+https://www.google.com/,google
+https://calendar.google.com,google calendar
+https://maps.google.com/,google maps
+https://scholar.google.com/,google scholar
+https://mail.google.com/,gmail
+https://github.com/,github
+https://regexr.com/,rejects
+https://github.com/SandeepJoel?tab=repositories&type=source,github repos
+https://gist.github.com/,gist
+https://en.wikipedia.org/,wikipedia
+https://www.youtube.com/,youtube
+https://freshworks.freshrelease.com/ws/FD/roadmap,freshrelease
+https://supremeone.runwayci.com/freshdesk/code_console, supreme code
+https://supremeone.runwayci.com/freshdesk/code_console/new, supreme new code
+https://supremeone.runwayci.com/freshdesk/sql_console,supreme sequel
+http://joel.freshdesk-dev.com/,joel desk
+https://userinterface.freshdesk.com/, user interface
+chrome://extensions/,extension
+chrome://extensions/shortcuts,extension shortcuts
+http://localhost.freshdesk-dev.com:4200/,local desk
+https://freshopsadmin.freshdesk.com,fresh ops
+https://www.diffchecker.com, dev checker
+https://jsonformatter.org/json-pretty-print, json prettify
+"https://logs.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:'5a670c50-ac64-11e8-977b-33121b22fb0e',interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack default
+"https://logs-euc.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:'546afc00-cd2d-11e8-a7e3-f14aba89b277',interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack europe
+"https://logs-au.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:d984d490-cd57-11e8-a374-bb6df3ff0c53,interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack australia
+"https://logs-in.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:e959e2e0-cd50-11e8-99e7-f3c5c5f43e65,interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack india
+https://app.fylehq.com/app/main/#/my_dashboard/,file expense
+https://freshdeskl2dev.freshdesk.com/a/tickets/filters/719814,swat open tickets
+https://freshdeskl2dev.freshdesk.com/a/tickets/filters/search?orderBy=created_at&orderType=desc&q[]=agent%3A%5B0%5D&ref=719814,swat all tickets
+https://guides.rubyonrails.org/v3.2.13/index.html, rails document
+https://github.com/burkeholland/simple-react-snippets/blob/master/snippets/snippets.json, react snippets
