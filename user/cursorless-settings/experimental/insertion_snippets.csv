@@ -1,0 +1,26 @@
+Spoken form, Cursorless identifier
+if, ifStatement
+if else, ifElseStatement
+try, tryCatchStatement
+link, link
+map, map
+nest, nestedMap
+with, withStatement
+while, whileStatement
+switch, switchStatement
+lambda, lambdaExpression
+lambda block, lambdaBlock
+foreign, forEachStatement
+on ready, talonOnReady
+use effect, useEffect
+div, div
+turn, ternaryExpression
+turn else, ternaryExpression
+arrow funk, arrowFunction
+binder, bindClassFunction
+class, classDeclaration
+con, constantDeclaration
+condition, ifStatement
+else, ifElseStatement
+funk, functionDeclaration
+tag, tag

@@ -1,0 +1,12 @@
+Spoken form, Cursorless identifier
+bound, excludeInterior
+head, extendThroughStartOf
+inside, interiorOnly
+just, toRawSelection
+slice, verticalRange
+tail, extendThroughEndOf
+
+
+# 2022-06-08 23:49:18 - New entries automatically added by cursorless
+leading, leading
+trailing, trailing
