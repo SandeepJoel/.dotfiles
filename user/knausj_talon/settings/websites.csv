@@ -9,8 +9,17 @@ https://dropbox.com/,dropbox
 https://www.google.com/,google
 https://calendar.google.com,google calendar
 https://maps.google.com/,google maps
+https://docs.google.com/, google docs
 https://scholar.google.com/,google scholar
 https://mail.google.com/,gmail
+https://drive.google.com/, google drive
+https://chrome.google.com/webstore/category/extensions, chrome webstore
+https://linktr.ee/sandeepjoel, link tree
+https://www.linkedin.com/in/sandeepjoel/, linkedin profile
+https://keep.google.com/, google keep
+https://docs.google.com/document/d/17HeF68hdqtTvRGq0M1_kPdRUr9My4Bs0/edit, resume
+https://www.linkedin.com/jobs/, linkedin
+https://www.teamblind.com/search/, blind
 https://github.com/,github
 https://regexr.com/,rejects
 https://github.com/SandeepJoel?tab=repositories&type=source,github repos
@@ -29,6 +38,7 @@ http://localhost.freshdesk-dev.com:4200/,local desk
 https://freshopsadmin.freshdesk.com,fresh ops
 https://www.diffchecker.com, dev checker
 https://jsonformatter.org/json-pretty-print, json prettify
+https://confluence.freshworks.com/, confluence
 "https://logs.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:'5a670c50-ac64-11e8-977b-33121b22fb0e',interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack default
 "https://logs-euc.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:'546afc00-cd2d-11e8-a7e3-f14aba89b277',interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack europe
 "https://logs-au.haystack.es/app/kibana#/discover?_g=()&_a=(columns:!(host,message),hideVis:!t,index:d984d490-cd57-11e8-a374-bb6df3ff0c53,interval:m,query:(language:lucene,query:''),sort:!('@timestamp',asc))",haystack australia

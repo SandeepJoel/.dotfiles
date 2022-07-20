@@ -23,7 +23,7 @@ follow, followLink
 format, applyFormatter
 give, deselect
 highlight, highlight
-hover, showHover
+inspect, showHover
 indent, indentLine
 inspect, showDebugHover
 move, moveToTarget
@@ -52,3 +52,6 @@ wrap, wrapWithPairedDelimiter
 # 2022-07-16 08:09:45 - New entries automatically added by cursorless
 snippet, insertSnippet
 snippet make, generateSnippet
+
+# 2022-07-18 11:59:26 - New entries automatically added by cursorless
+hover, showHover
